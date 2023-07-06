@@ -1,13 +1,11 @@
-3 הקבצים עם סיומת py הן קבצי פייתון ,חשוב להריץ את קובץ ה Shared  עם קובץ האקסל (logins_kodus_kpi_lrn_left_cellularsales_used_20_12_jan_v2) ולאחר מכן את ה MAIN ואחר מכן את קובץ FORMONTHMAIN עם קובץ האקסל (logins_kodus_kpi_lrn_left_cellularsales_used_jan_4m)- חשוב להגדיש כי קבצי הדאטה פה לפני שלב ניקוי הדאטה.
+The 3 files with the extension py are Python files, it is important to run the Shared file with the Excel file (logins_kodus_kpi_lrn_left_cellularsales_used_20_12_jan_v2) and then the MAIN file and then the FORMONTHMAIN file with the Excel file (logins_kodus_kpi_lrn_left_cellularsales_used_jan_4m) - it is important to note that the data files here before the cleaning step .
 
 
-קובץ עם סיומת R , פיתחנו בשפה R חשוב ש קובץ הנתונים  בשם DATA יהיה באותה תיקיה כאשר מריצים
+A file with the extension R, we developed it in the R language. It is important that the data file named DATA be in the same folder when running
 
-דאטה מטויב- 3 קבצים לפני הטרנד ואחרי,בנוסף  קובץ אחר לאחר הפעלת  FORMONTHMAIN 
+Data after cleaning- 3 files before and after the trend, plus another file after runing FORMONTHMAIN
 
-שני קבצים עם סיומת PKL הן שני המודלים ששמרנו כקובץ גיבריש בעזרת PICKLR על מנת להעריך ביצועים
-
-
-כל השאר הן תוצות שקיבלנו מ R ו מ SHAP
+Two files with the extension PKL are the two models that we saved as gibberish files with the help of PICKLE in order to evaluate performance
 
 
+All the rest are plots that we got from R and from SHAP
